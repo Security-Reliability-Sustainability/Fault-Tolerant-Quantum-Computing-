@@ -10,7 +10,7 @@ The framework integrates **Microsoft Quantum Resource Estimator**, **Qiskit**, a
 |---|---|
 | **Nash Equilibrium** | Game-theoretic optimization using iterated best response |
 | **Simulated Annealing (SA)** | Adaptive stochastic optimization of error budgets |
-| **Quantum-Behaved PSO (QPSO)** | Population-based optimization of budget allocations |
+| **Quantum Particle Swarm Optimization (QPSO)** | Population-based optimization of budget allocations |
 | **Uniform Baseline** | Equal error budget allocation for comparison |
 
 ## Repository Contents
